@@ -57,6 +57,14 @@ body {
     color: white;
     
 }
+
+#gameBox h2 {
+    margin: auto;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+
 #gameBox div {
     color: white;
     font-size: 15px;
@@ -73,7 +81,9 @@ body {
     text-align: center;
     margin: auto 0;
     font-size: 100px;
-    font-family: 'Audiowide', cursive;
+    /* font-family: 'Audiowide', cursive; */
+    font-family: 'Rye', cursive;
+    /* font-family: 'Astloch', cursive; */
     color: antiquewhite;
 }
 
@@ -81,7 +91,19 @@ body {
     text-align: center;
     margin: auto 0;
     font-size: 50px;
-    font-family: 'Audiowide', cursive;
+    /* font-family: 'Audiowide', cursive; */
+    /* font-family: 'Astloch', cursive; */
+    font-family: 'Rye', cursive;
     font-weight: bolder;
     color: antiquewhite;
+}
+
+img {
+    margin: auto;
+}
+
+#gameBox div {
+    font-size: 35px;
+    padding: auto 10px;
+    font-weight: bold;
 }
